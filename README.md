@@ -77,3 +77,9 @@ This simple script is the first step towards a much larger vision of a true Evol
 - **Advanced Testing:** Generating a wider and more complex range of test cases automatically.
 - **The Three-Layer Architecture:** Building out the full system with Adaptive Functions, a Coordination Substrate, and enabling Emergent Capabilities as described in the original ECS document.
 - **Real-World Integration:** Creating wrappers and decorators (`@evolutionary_function`) to easily apply this system to existing codebases.
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
